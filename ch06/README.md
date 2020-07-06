@@ -384,7 +384,8 @@ int calc(const char*, const char*); // calls lookup(const char *)
 ```
 (c)
 
-illegal. both calls lookup(char*)
+it is a repeated declarations(without definition). you can find similar situation in Exercise 6.39 (a).
+
 
 ## Exercise 6.54
 ```cpp
